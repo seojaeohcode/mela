@@ -1,3 +1,2 @@
-# hide on jack
-
-React Js Fudamentals Seojaeoh's second project
+# hide_on_jack
+react Js Fundamental seojaeoh's second project
